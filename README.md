@@ -2,7 +2,7 @@ Proyecto de un Sistema de Cines
 
 ## Tecnologías
 - HTML
-- Bootstrap
+- Bootstrap CSS
 - JavaScript
 - Vue
 - Node.Js
