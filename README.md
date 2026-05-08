@@ -10,9 +10,11 @@ Database Schema
 Contributing
 
 🎯 Overview
+
 The Cinema Management System is a complete web solution that allows cinema administrators to manage their operations end-to-end — from programming showtimes and assigning auditoriums to handling reservations and ticket printing. Built with a Vue.js frontend and a Node.js/Express REST API connected to a PostgreSQL relational database.
 
 ✨ Features
+
 ModuleDescription🎥 MoviesCreate, edit and delete movie listings with poster, synopsis and duration🕐 ShowtimesSchedule multiple functions per movie across different auditoriums🪑 Seat ReservationsInteractive seat map with real-time availability🎫 TicketsGenerate and manage ticket sales per reservation🏛️ AuditoriumsConfigure auditorium layouts and seat capacities👤 UsersBasic authentication and user management
 
 🛠️ Tech Stack
